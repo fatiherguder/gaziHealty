@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:gazihealty/core/components/days-step.dart';
 import 'package:gazihealty/core/palette.dart';
+import 'package:google_fonts/google_fonts.dart';
 import 'package:percent_indicator/percent_indicator.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 class RunningScreen extends StatelessWidget {
   const RunningScreen({Key? key}) : super(key: key);
@@ -26,9 +28,10 @@ class RunningScreen extends StatelessWidget {
         Container(
           alignment: Alignment.centerLeft,
           padding: const EdgeInsets.fromLTRB(16, 8, 0, 0),
-          child: const Text(
+          child: Text(
             "Hoşgeldin Fatih 😊",
-            style: TextStyle(fontSize: 18, fontWeight: FontWeight.w500),
+            style: GoogleFonts.montserrat(
+                fontSize: 18, fontWeight: FontWeight.w500),
           ),
         ),
         const Divider(
@@ -44,50 +47,48 @@ class RunningScreen extends StatelessWidget {
 
   Expanded buildDaySteps(PageController controller) {
     return Expanded(
-      child: PageView(
-        controller: controller,
-        children: <Widget>[
-          Row(
-            mainAxisAlignment: MainAxisAlignment.spaceAround,
-            children: const [
-              StepDay(
-                day: "Pazartesi",
-                step: 5873,
-              ),
-              StepDay(
-                day: "Salı",
-                step: 8012,
-              ),
-              StepDay(
-                day: "Çarşamba",
-                step: 13608,
-              ),
-              StepDay(
-                day: "Perşembe",
-                step: 8672,
-              ),
-            ],
-          ),
-          Row(
-            mainAxisAlignment: MainAxisAlignment.spaceAround,
-            children: const [
-              StepDay(
-                day: "Cuma",
-                step: 9172,
-              ),
-              StepDay(
-                day: "Cumartesi",
-                step: 6718,
-              ),
-              StepDay(
-                day: "Pazar",
-                step: 1109,
-              ),
-            ],
-          ),
-        ],
-      ),
-    );
+        child: Column(
+      children: [
+        Row(
+          mainAxisAlignment: MainAxisAlignment.spaceAround,
+          children: const [
+            StepDay(
+              day: "Pazartesi",
+              step: 5873,
+            ),
+            StepDay(
+              day: "Salı",
+              step: 8012,
+            ),
+            StepDay(
+              day: "Çarşamba",
+              step: 13608,
+            ),
+            StepDay(
+              day: "Perşembe",
+              step: 8672,
+            ),
+          ],
+        ),
+        Row(
+          mainAxisAlignment: MainAxisAlignment.spaceAround,
+          children: const [
+            StepDay(
+              day: "Cuma",
+              step: 9172,
+            ),
+            StepDay(
+              day: "Cumartesi",
+              step: 6718,
+            ),
+            StepDay(
+              day: "Pazar",
+              step: 1109,
+            ),
+          ],
+        ),
+      ],
+    ));
   }
 
   Column buildTitle() {
@@ -97,9 +98,10 @@ class RunningScreen extends StatelessWidget {
       children: [
         Container(
           padding: const EdgeInsets.only(left: 20),
-          child: const Text(
+          child: Text(
             "Bu Hafta",
-            style: TextStyle(fontSize: 16, fontWeight: FontWeight.w600),
+            style: GoogleFonts.montserrat(
+                fontSize: 16, fontWeight: FontWeight.w600),
           ),
         ),
         const Divider(
@@ -133,13 +135,15 @@ class RunningScreen extends StatelessWidget {
             ),
             Text(
               step.toString(),
-              style: TextStyle(fontWeight: FontWeight.w600, fontSize: 40),
+              style: GoogleFonts.montserrat(
+                  fontWeight: FontWeight.w600, fontSize: 40),
             ),
-            const Padding(
-              padding: EdgeInsets.only(bottom: 20),
+            Padding(
+              padding: const EdgeInsets.only(bottom: 20),
               child: Text(
                 "HEDEF 10.000",
-                style: TextStyle(fontWeight: FontWeight.w400, fontSize: 12),
+                style: GoogleFonts.montserrat(
+                    fontWeight: FontWeight.w400, fontSize: 12),
               ),
             ),
           ],

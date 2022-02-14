@@ -62,6 +62,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "confetti",
+      "rootUri": "file:///Users/fatiherguder/flutter/.pub-cache/hosted/pub.dartlang.org/confetti-0.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "crypto",
       "rootUri": "file:///Users/fatiherguder/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-3.0.1",
       "packageUri": "lib/",
@@ -196,12 +202,6 @@
     {
       "name": "lints",
       "rootUri": "file:///Users/fatiherguder/flutter/.pub-cache/hosted/pub.dartlang.org/lints-1.0.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "liquid_progress_indicator_ns",
-      "rootUri": "file:///Users/fatiherguder/flutter/.pub-cache/hosted/pub.dartlang.org/liquid_progress_indicator_ns-1.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -410,7 +410,7 @@
       "languageVersion": "2.15"
     }
   ],
-  "generated": "2022-02-11T23:03:42.535557Z",
+  "generated": "2022-02-13T19:24:49.522142Z",
   "generator": "pub",
   "generatorVersion": "2.16.1"
 }

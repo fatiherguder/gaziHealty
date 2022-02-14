@@ -2,6 +2,7 @@ import 'dart:core';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 import 'package:percent_indicator/circular_percent_indicator.dart';
 
 import '../palette.dart';
@@ -18,7 +19,7 @@ class StepDay extends StatelessWidget {
       children: [
         Text(
           day,
-          style: const TextStyle(fontWeight: FontWeight.w500),
+          style: GoogleFonts.montserrat(fontWeight: FontWeight.w500),
         ),
         Padding(
           padding: const EdgeInsets.all(4.0),
@@ -30,7 +31,8 @@ class StepDay extends StatelessWidget {
             animationDuration: 1000,
             center: Text(
               step.toString(),
-              style: const TextStyle(fontWeight: FontWeight.w600, fontSize: 16),
+              style: GoogleFonts.montserrat(
+                  fontWeight: FontWeight.w600, fontSize: 16),
             ),
             progressColor: Palette.light,
             backgroundColor: Palette.dark,

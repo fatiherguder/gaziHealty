@@ -43,8 +43,8 @@ dependencies:
   cloud_firestore: ^3.1.4
   persistent_bottom_nav_bar: ^4.0.2
   percent_indicator: ^4.0.0
-  liquid_progress_indicator_ns: ^1.0.0
   wave_transition: ^0.0.6
+  confetti: ^0.6.0
 
 dev_dependencies:
   flutter_test:
