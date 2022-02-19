@@ -4,9 +4,66 @@ import 'package:gazihealty/core/palette.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:percent_indicator/percent_indicator.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:pedometer/pedometer.dart';
 
-class RunningScreen extends StatelessWidget {
+class RunningScreen extends StatefulWidget {
   const RunningScreen({Key? key}) : super(key: key);
+
+  @override
+  State<RunningScreen> createState() => _RunningScreenState();
+}
+
+class _RunningScreenState extends State<RunningScreen> {
+  late Stream<StepCount> _stepCountStream;
+  late Stream<PedestrianStatus> _pedestrianStatusStream;
+  String _status = '?', _steps = '0';
+
+  @override
+  void initState() {
+    super.initState();
+    initPlatformState();
+  }
+
+  void onStepCount(StepCount event) {
+    print(event);
+    setState(() {
+      _steps = event.steps.toString();
+    });
+  }
+
+  void onPedestrianStatusChanged(PedestrianStatus event) {
+    print(event);
+    setState(() {
+      _status = event.status;
+    });
+  }
+
+  void onPedestrianStatusError(error) {
+    print('onPedestrianStatusError: $error');
+    setState(() {
+      _status = 'Pedestrian Status not available';
+    });
+    print(_status);
+  }
+
+  void onStepCountError(error) {
+    print('onStepCountError: $error');
+    setState(() {
+      _steps = 'Step Count not available';
+    });
+  }
+
+  void initPlatformState() {
+    _pedestrianStatusStream = Pedometer.pedestrianStatusStream;
+    _pedestrianStatusStream
+        .listen(onPedestrianStatusChanged)
+        .onError(onPedestrianStatusError);
+
+    _stepCountStream = Pedometer.stepCountStream;
+    _stepCountStream.listen(onStepCount).onError(onStepCountError);
+
+    if (!mounted) return;
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -16,6 +73,7 @@ class RunningScreen extends StatelessWidget {
       children: [
         buildWelcome(),
         buildCircularIndicator(),
+        Text(_status),
         buildTitle(),
         buildDaySteps(controller)
       ],
@@ -122,7 +180,7 @@ class RunningScreen extends StatelessWidget {
       child: CircularPercentIndicator(
         radius: 120.0,
         lineWidth: 10.0,
-        percent: step / 10000,
+        percent: int.parse(_steps) > 10000 ? 1 : int.parse(_steps) / 10000,
         animation: true,
         animationDuration: 1000,
         center: Column(
@@ -134,7 +192,7 @@ class RunningScreen extends StatelessWidget {
               size: 32,
             ),
             Text(
-              step.toString(),
+              _steps,
               style: GoogleFonts.montserrat(
                   fontWeight: FontWeight.w600, fontSize: 40),
             ),

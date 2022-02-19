@@ -10,7 +10,7 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		efOIFNT68kL5IHipyMx8qjHxWlw=
+		fWZjU3dFlt73cFM6Mc4V0zwyCg4=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		lbe+13v3aFMQBUEsDGNWqiicBPA=
+		lX2EbfMU/5YCJs2WUKA077Gia3g=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -30,15 +30,43 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		tNhEaeebv43rle/WMVRotvayBlA=
+		q8c+8VnVaGwHBw+PJuDa+lC50uU=
 		</data>
 		<key>flutter_assets/lib/core/assets/.DS_Store</key>
 		<data>
-		tYNX7odXzJsgEFxHhQjjWU97O0U=
+		WUiV/AM1xra5H0S5uafVcTyOVwM=
 		</data>
 		<key>flutter_assets/lib/core/assets/back.jpg</key>
 		<data>
 		0+1nt0R+TN6rDSMIi9GY9+EMKf0=
+		</data>
+		<key>flutter_assets/lib/core/assets/food1.jpg</key>
+		<data>
+		C5uqunUOz/BKp/ef+XY2c6yqrhY=
+		</data>
+		<key>flutter_assets/lib/core/assets/food2.jpg</key>
+		<data>
+		X9vyZ0FP8kBgeL2xRk63/sK6QEA=
+		</data>
+		<key>flutter_assets/lib/core/assets/food3.jpg</key>
+		<data>
+		Lz7QnitDe1Jd8+EV1KQlEE28G2E=
+		</data>
+		<key>flutter_assets/lib/core/assets/icons/.DS_Store</key>
+		<data>
+		4x7Z42gX+8QS2w8lwW0klYHn8Iw=
+		</data>
+		<key>flutter_assets/lib/core/assets/icons/foodicon.png</key>
+		<data>
+		YDgt7vo63/E1HpnJMv++gILHpSk=
+		</data>
+		<key>flutter_assets/lib/core/assets/icons/healtyicon.png</key>
+		<data>
+		lUtaX8yJcGtvu+lu9XNkA1BFzQQ=
+		</data>
+		<key>flutter_assets/lib/core/assets/icons/searchicon.png</key>
+		<data>
+		rF5oc9nYXYV+6EHhQ28w0UaElGA=
 		</data>
 		<key>flutter_assets/lib/core/assets/login.json</key>
 		<data>
@@ -75,7 +103,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sTRSug/L2iY/hgPvsYMoIwUfwx39KY1otWu7VRLlBQQ=
+			fPXfxcl1W9O4zgIQ0npLQreypZzqUQbm2BzIjm8/DnY=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -89,7 +117,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KXwueXHOSJe94Wn6AoB+R4lCNKxYzZ4nzFOJeLMwxjU=
+			QLB9lg6TmIz/foiGtwNbN7hZrUfVTDZYM72I9AIRLBk=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -110,7 +138,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tu4tX4lCxnwMHb+VvoMkHhpUz8MSMEKszO0jnuzs/ms=
+			NYmyWrWsNVA0DJ9B3N3E0it6xWdcubFjO4WHWZmfvec=
 			</data>
 		</dict>
 		<key>flutter_assets/lib/core/assets/back.jpg</key>
@@ -118,6 +146,48 @@
 			<key>hash2</key>
 			<data>
 			8p0NVDxZ1iB/d8zIoY67YKVXrgBy72sYBS5ChMh1rwk=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/core/assets/food1.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PwsosstpdditdKQZOT7t9fo4Vwu84QSZ0mPxm22ApWg=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/core/assets/food2.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SOVTKWlYKioLc/AzUVhm/ieSoqt9z7y43BYWj1/3R3E=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/core/assets/food3.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qIN40FnIjiCv1yJmymtGryXxEn+RDzYEqH7NA9fAXas=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/core/assets/icons/foodicon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			C1Zz12sTm+RDMND7jwhxH8OPGdf2dQXBTZnfqhKGYnQ=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/core/assets/icons/healtyicon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			41PFln2Kj/V7NMlMd254JolukcrqW7kdmxSyxkZd2bE=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/core/assets/icons/searchicon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qutnCzpjVefVO8+liAiYApF9ufwdo3P1Z8EFh9X2oVI=
 			</data>
 		</dict>
 		<key>flutter_assets/lib/core/assets/login.json</key>

@@ -98,7 +98,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		hMnf/VIyTGR2nRcoLS3JCfeGmDs=
+		NcDwqQY76U208B6UXgj+UdbL99Y=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		bflICsNezzT3PfXZIS08HGS/0os=
+		kV5JWZotFknkfklR9Y+rW/xQh1E=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -118,11 +118,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		HElX1vcDCNKWKcYTh19Hrsxv1hY=
+		UlgveZKCbKxRI9hbMRQjbu4vP5Q=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		efOIFNT68kL5IHipyMx8qjHxWlw=
+		fWZjU3dFlt73cFM6Mc4V0zwyCg4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		lbe+13v3aFMQBUEsDGNWqiicBPA=
+		lX2EbfMU/5YCJs2WUKA077Gia3g=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -142,11 +142,35 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		tNhEaeebv43rle/WMVRotvayBlA=
+		q8c+8VnVaGwHBw+PJuDa+lC50uU=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/lib/core/assets/back.jpg</key>
 		<data>
 		0+1nt0R+TN6rDSMIi9GY9+EMKf0=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/lib/core/assets/food1.jpg</key>
+		<data>
+		C5uqunUOz/BKp/ef+XY2c6yqrhY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/lib/core/assets/food2.jpg</key>
+		<data>
+		X9vyZ0FP8kBgeL2xRk63/sK6QEA=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/lib/core/assets/food3.jpg</key>
+		<data>
+		Lz7QnitDe1Jd8+EV1KQlEE28G2E=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/lib/core/assets/icons/foodicon.png</key>
+		<data>
+		YDgt7vo63/E1HpnJMv++gILHpSk=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/lib/core/assets/icons/healtyicon.png</key>
+		<data>
+		lUtaX8yJcGtvu+lu9XNkA1BFzQQ=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/lib/core/assets/icons/searchicon.png</key>
+		<data>
+		rF5oc9nYXYV+6EHhQ28w0UaElGA=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/lib/core/assets/login.json</key>
 		<data>
@@ -178,7 +202,7 @@
 		</data>
 		<key>Frameworks/FBLPromises.framework/FBLPromises</key>
 		<data>
-		O3jgIJI9ctlQBn0qRGTPNX8gd6A=
+		JysEvd/7sHZbGakGt9klNZnVlxk=
 		</data>
 		<key>Frameworks/FBLPromises.framework/Info.plist</key>
 		<data>
@@ -190,7 +214,7 @@
 		</data>
 		<key>Frameworks/FirebaseAuth.framework/FirebaseAuth</key>
 		<data>
-		6N5/LKObyMfhPm2Mtk/yFPBlNX8=
+		VbkNOwp7jhBllZ5Nm9SESAnGu5E=
 		</data>
 		<key>Frameworks/FirebaseAuth.framework/Info.plist</key>
 		<data>
@@ -202,7 +226,7 @@
 		</data>
 		<key>Frameworks/FirebaseCore.framework/FirebaseCore</key>
 		<data>
-		T7s1wTJVPJd+N8RvZnkGnSj9Eis=
+		u4BMw1nlLB0ipFi+la3ULWyIG70=
 		</data>
 		<key>Frameworks/FirebaseCore.framework/Info.plist</key>
 		<data>
@@ -214,7 +238,7 @@
 		</data>
 		<key>Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics</key>
 		<data>
-		eb9z62Z90ib7tkrZ/3YaQMCcu4o=
+		oHSloOkrQGpNuHtaGrFhqR3U8SY=
 		</data>
 		<key>Frameworks/FirebaseCoreDiagnostics.framework/Info.plist</key>
 		<data>
@@ -226,7 +250,7 @@
 		</data>
 		<key>Frameworks/FirebaseFirestore.framework/FirebaseFirestore</key>
 		<data>
-		48o+puHWeB7CSLy148bl9xuHU3c=
+		ZGGOiKQlNDsp4DsMfvVwC0JmZ54=
 		</data>
 		<key>Frameworks/FirebaseFirestore.framework/Info.plist</key>
 		<data>
@@ -322,7 +346,7 @@
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher</key>
 		<data>
-		qI6kZFTxoXCBhUSYISFsTTo4qQE=
+		W0doEYXzdJw/r+HcfAySFRj5FLM=
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
 		<data>
@@ -334,7 +358,7 @@
 		</data>
 		<key>Frameworks/GoogleDataTransport.framework/GoogleDataTransport</key>
 		<data>
-		l2GvViCHffJWyvMscm9LggfIvlw=
+		hZ+wFGCfOGdbRJ5hABzhc50EjGI=
 		</data>
 		<key>Frameworks/GoogleDataTransport.framework/Info.plist</key>
 		<data>
@@ -346,7 +370,7 @@
 		</data>
 		<key>Frameworks/GoogleUtilities.framework/GoogleUtilities</key>
 		<data>
-		h0f01Gw5peSm3bpLHd/yA60eQy4=
+		qChz5SAZPA0sOxOaqKaD/NeBQTY=
 		</data>
 		<key>Frameworks/GoogleUtilities.framework/Info.plist</key>
 		<data>
@@ -366,7 +390,7 @@
 		</data>
 		<key>Frameworks/absl.framework/absl</key>
 		<data>
-		2IePX+zIUbXEVXSF7J6YscfPsGs=
+		k2YaZLemCTk611WagTj0xk8Rf24=
 		</data>
 		<key>Frameworks/grpc.framework/Info.plist</key>
 		<data>
@@ -378,7 +402,7 @@
 		</data>
 		<key>Frameworks/grpc.framework/grpc</key>
 		<data>
-		L3mfHCtKx4X7uLjaZCCoQoeoka4=
+		QGe62pBUNDj/ss0HNoE6d64A69I=
 		</data>
 		<key>Frameworks/grpcpp.framework/Info.plist</key>
 		<data>
@@ -418,7 +442,7 @@
 		</data>
 		<key>Frameworks/grpcpp.framework/grpcpp</key>
 		<data>
-		8oeANqwgzSnwIsyslld5JwD5tSc=
+		C/J/6PKYgvZi2rda77IbbrTeuRE=
 		</data>
 		<key>Frameworks/leveldb.framework/Info.plist</key>
 		<data>
@@ -430,7 +454,7 @@
 		</data>
 		<key>Frameworks/leveldb.framework/leveldb</key>
 		<data>
-		izvnRFqXOWRjEgmxXRtsOjuWqGM=
+		sGZhS+sN8n4WHp0YCDFvP+lmcBA=
 		</data>
 		<key>Frameworks/nanopb.framework/Info.plist</key>
 		<data>
@@ -442,7 +466,7 @@
 		</data>
 		<key>Frameworks/nanopb.framework/nanopb</key>
 		<data>
-		jCExIniitnMoEari446JD8Hzj64=
+		Wh3vvlDH5d0tgEOq/rjduYV7etI=
 		</data>
 		<key>Frameworks/openssl_grpc.framework/Info.plist</key>
 		<data>
@@ -454,7 +478,7 @@
 		</data>
 		<key>Frameworks/openssl_grpc.framework/openssl_grpc</key>
 		<data>
-		540pjGL7zPiTSAqR7AlZZcigIBI=
+		JuRXqyqNbS8ChcohioLtpCu2z0U=
 		</data>
 		<key>Frameworks/path_provider_ios.framework/Info.plist</key>
 		<data>
@@ -466,11 +490,23 @@
 		</data>
 		<key>Frameworks/path_provider_ios.framework/path_provider_ios</key>
 		<data>
-		unqor32Rr4LjWJyJiIMxXUQg3Lc=
+		bTkoV5DhuB0BHgDqoJNF67l4sdc=
+		</data>
+		<key>Frameworks/pedometer.framework/Info.plist</key>
+		<data>
+		/ghVUu4xMVOOGiuwYKYowT1rMxU=
+		</data>
+		<key>Frameworks/pedometer.framework/_CodeSignature/CodeResources</key>
+		<data>
+		8h65M6VMtULaBk9CdiL87cw4lgI=
+		</data>
+		<key>Frameworks/pedometer.framework/pedometer</key>
+		<data>
+		gp+H6RfG3T7l2KkbaatvnbZG8xE=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		P7l7noI4tgEKxGhiptnWIWPl/bY=
+		SX9gWHRZT/MsuQLEXAMB90KXyaI=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -644,7 +680,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BY/hOMO0FcCl8mCMQqjVbFeb8Q97c1G9lHscfspHFNk=
+			+nHRff087DYXFpw/oTWtY5tpCRFh9UC2IuTS4p66FTU=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -665,7 +701,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZqH6L7cH/kdTxbMrThTKzmkIrk9WgF3jlW6b/CP3dkU=
+			aR+ol8noRzrtEOcj9ODWkVmj7oeeHcCbiDToNpfF5zo=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -679,14 +715,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7VKHqEzvPW3NFgCn6/sj87lzCw64x+UxM1X0tCWEq0o=
+			O2+U3VQvgEFT3VUoui153S0URnPJlM/mlHZbFWoo0Ic=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sTRSug/L2iY/hgPvsYMoIwUfwx39KY1otWu7VRLlBQQ=
+			fPXfxcl1W9O4zgIQ0npLQreypZzqUQbm2BzIjm8/DnY=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -700,7 +736,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KXwueXHOSJe94Wn6AoB+R4lCNKxYzZ4nzFOJeLMwxjU=
+			QLB9lg6TmIz/foiGtwNbN7hZrUfVTDZYM72I9AIRLBk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -721,7 +757,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tu4tX4lCxnwMHb+VvoMkHhpUz8MSMEKszO0jnuzs/ms=
+			NYmyWrWsNVA0DJ9B3N3E0it6xWdcubFjO4WHWZmfvec=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/lib/core/assets/back.jpg</key>
@@ -729,6 +765,48 @@
 			<key>hash2</key>
 			<data>
 			8p0NVDxZ1iB/d8zIoY67YKVXrgBy72sYBS5ChMh1rwk=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/lib/core/assets/food1.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PwsosstpdditdKQZOT7t9fo4Vwu84QSZ0mPxm22ApWg=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/lib/core/assets/food2.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SOVTKWlYKioLc/AzUVhm/ieSoqt9z7y43BYWj1/3R3E=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/lib/core/assets/food3.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qIN40FnIjiCv1yJmymtGryXxEn+RDzYEqH7NA9fAXas=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/lib/core/assets/icons/foodicon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			C1Zz12sTm+RDMND7jwhxH8OPGdf2dQXBTZnfqhKGYnQ=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/lib/core/assets/icons/healtyicon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			41PFln2Kj/V7NMlMd254JolukcrqW7kdmxSyxkZd2bE=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/lib/core/assets/icons/searchicon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qutnCzpjVefVO8+liAiYApF9ufwdo3P1Z8EFh9X2oVI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/lib/core/assets/login.json</key>
@@ -784,7 +862,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XvQJplkjV3row4ExR/zu5hwSxjGJzaJzgJc6+WLa60k=
+			S00ZYmY/ixXq3hpMaFockHGBY69/kqBH97ahJiKQ9co=
 			</data>
 		</dict>
 		<key>Frameworks/FBLPromises.framework/Info.plist</key>
@@ -805,7 +883,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FSVFngehlm17hCeEpqKnjrwnhatZuXzAQ0sMxRLzUD8=
+			qCxo++mciA4AU01DoV7VGSI/j9zcRZHcgW9ugNxxIjY=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseAuth.framework/Info.plist</key>
@@ -826,7 +904,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w0jcTvpR9vad0m0Jz6OMzPiYmUeYoprhcpsUbTNXRKE=
+			YegBpvCJuYuoP+8E4InmWaobsBGmCZT9psme508wkwE=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseCore.framework/Info.plist</key>
@@ -847,7 +925,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fnTdFq46FeD/h6YjnTBE2eESSot1qyhjrouGxMdURt4=
+			SQfABqaan8rZIZb5XSIKHJjz5//LHNA7oKs7jegdad8=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseCoreDiagnostics.framework/Info.plist</key>
@@ -868,7 +946,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dais8ZKofE9rGFQuUNYOnlqXhpGZmFUBMOW0of3k+T4=
+			IFCjmVL7szIRoPV3wpuq6PJdtaAOeYyU+300w9+IeHE=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseFirestore.framework/Info.plist</key>
@@ -1036,7 +1114,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			k5n1n6ETyQAMnl5bkzkdU5/1AyQW+BJ1KSkzyaVWtm0=
+			10Ijqo2GRZpej3vLSucN5WTnw2lpOSjnntHrGa0Xajc=
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
@@ -1057,7 +1135,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			d4NKSb7b2Fjpwb2RDZ1ubkcGP1nMH6WXRwahMOWRzRY=
+			xha01eYL8rmj8DeepNCK4i1+ZuYwXoO3r4Xve4PlVsM=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleDataTransport.framework/Info.plist</key>
@@ -1078,7 +1156,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rMREYRFQ2HzsIUhFdZ81XFo5Nuw/uUAH23/SThlGK60=
+			15eP7EhPP/g4mebMxKpCDxmBZ/Tysuqdz4SfF1vrYvc=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleUtilities.framework/Info.plist</key>
@@ -1113,7 +1191,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AhmoKgjMoXhDUB9KARK0S0JtDuDMDhb+y9ENjP0V6EY=
+			fZNqN7ODFf1Lo9XHZuucFeAS15Ty6ztTvTGfHbkroac=
 			</data>
 		</dict>
 		<key>Frameworks/grpc.framework/Info.plist</key>
@@ -1134,7 +1212,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OsBoH9bJGIxJtfZ54OSaluaTBKFVsnC9R2L/5q1tRJs=
+			5UPNIMjeD/Bq+tUM7DBGP3YKQTl2djbR3+7qsD6P8m8=
 			</data>
 		</dict>
 		<key>Frameworks/grpcpp.framework/Info.plist</key>
@@ -1204,7 +1282,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LpS5XUMoiMlc5snzSnOGqsIEBqrgbegEMQz6+bJyXSs=
+			yUqawnvGh82XC6D1qBy1mIoaNw20RRzIA4tlqj7bJ0s=
 			</data>
 		</dict>
 		<key>Frameworks/leveldb.framework/Info.plist</key>
@@ -1225,7 +1303,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ff6vaoCOx9OeiMfAlfkoiybvc/KMrgyjhgapPtKagqI=
+			sghuS2Xz4QXVK1OX0DqgEjm92c48KJCeit4j8mcR+jI=
 			</data>
 		</dict>
 		<key>Frameworks/nanopb.framework/Info.plist</key>
@@ -1246,7 +1324,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aQuIXFv/cywWDw78bdCVJ0Y/FfcZq2mKE/lrmU80nk0=
+			iCDkmQ0qF+4xiNAQi147B4qGL8jnYFncQza0Cs8bh+A=
 			</data>
 		</dict>
 		<key>Frameworks/openssl_grpc.framework/Info.plist</key>
@@ -1267,7 +1345,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wM7T2uOqu7Iddt31ptHfVYs2ODzY5XFA2rM+2WhOyOY=
+			BnjCQs23DXMvG6LvQrOf1FdYEG1GEy5ong5sKT2ihe0=
 			</data>
 		</dict>
 		<key>Frameworks/path_provider_ios.framework/Info.plist</key>
@@ -1288,7 +1366,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/Uh25DMU77Ver4hzEcviYwL+Y4FcxhHvKRi0A6R/fVA=
+			hDoz1JYboagnUYGQxzhtIk63u6v6drzIJhgirNfRDdk=
+			</data>
+		</dict>
+		<key>Frameworks/pedometer.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GwEXyfD+6IWkjbLV8rY2xIoNCySfwRCdVhJnPJVrflg=
+			</data>
+		</dict>
+		<key>Frameworks/pedometer.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PZ+A+xlF2RL6RsyTDfXnLcAW8DW/G/8YBDgeleCyhco=
+			</data>
+		</dict>
+		<key>Frameworks/pedometer.framework/pedometer</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8q6L5IJGd9t6ROtljks0MhoyyonuEgOXvzvLHmeIxF4=
 			</data>
 		</dict>
 	</dict>
